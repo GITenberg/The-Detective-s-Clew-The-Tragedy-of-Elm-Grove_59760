@@ -1,11 +1,16 @@
 _repo: The-Detective-s-Clew-The-Tragedy-of-Elm-Grove_59760
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59760-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Adams, O. S. (Old Hutch)
     gutenberg_agent_id: '50614'
     url: http://www.gutenberg.org/2009/agents/50614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59760#The-Detective-s-Clew-The-Tragedy-of-Elm-Grove
 gutenberg_issued: '2019-06-15'
 gutenberg_type: Text
 identifiers:
